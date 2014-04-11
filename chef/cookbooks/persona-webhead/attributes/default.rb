@@ -1,5 +1,5 @@
 default["persona"]["webhead"]["rpms"]["browserid-server"] = "browserid-server-0.2013.10.09-3.el6_121508.x86_64.rpm"
-default["persona"]["webhead"]["rpms"]["nodejs"] = "nodejs-0.8.26-1.el6.x86_64.rpm"
+default["persona"]["webhead"]["rpms"]["nodejs"] = "nodejs-svcops-0.10.26-1.el6.x86_64.rpm"
 default["persona"]["loadtest"] = false
 
 default["persona"]["webhead"]["kpi_backend_sample_rate"] = 0.2
